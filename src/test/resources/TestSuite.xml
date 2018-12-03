@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestGmail" verbose="1" >
+    <test name="TesrRunner">
+        <classes>
+            <class name="gmail.tests.TestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>
